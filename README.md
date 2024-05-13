@@ -8,6 +8,12 @@ Designed to introduce 10 yr olds to the building blocks of life.
 
 Enter your dna sequence and click the button , then drag the neucleotides into the correct order.
 
+The built in mp3 player contains an audio introduction written by 'Zendog' UI and converted from txt 2 mp3 by 'Eve' ,
+
+(electronic voice emulator) @ https://eve-red.vercel.app/
+
+Eve uses the 'tts-1' , ' whisper' voice known as 'shimmer'. (openai api key required).
+
 ![DNA](replication.png)
 
 Nucleotides, while essential components of DNA and RNA, are not inherently complex.
