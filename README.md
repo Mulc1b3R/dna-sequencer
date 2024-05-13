@@ -12,7 +12,7 @@ The built in mp3 player contains an audio introduction written by 'Zendog' UI an
 
 (electronic voice emulator) @ https://eve-red.vercel.app/
 
-Eve uses the 'tts-1' , ' whisper' voice known as 'shimmer'. (openai api key required).
+Eve used the 'tts-1' , ' Whisper' voice known as 'Shimmer'. (openai api key required).
 
 ![DNA](replication.png)
 
