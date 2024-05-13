@@ -39,3 +39,8 @@ For the purpose of a simple illustration tool like the one provided , the comple
 visual representation by associating colors with each nucleotide to help users visually distinguish them in the DNA sequence.
 
 This abstraction simplifies the visualization process and allows users to interact with DNA sequences in a more accessible and engaging way.
+
+# credits.
+
+Mulciber , zendog , eve . (psico communications) . Distribute at will. (apache 2.0).
+'WE come in peace 4 all mankind'....................................................Omnia connexia.
