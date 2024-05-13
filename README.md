@@ -14,7 +14,7 @@ The built in mp3 player contains an audio introduction written by 'Zendog' UI an
 
 Eve used the 'tts-1' , ' Whisper' voice known as 'Shimmer'. (openai api key required).
 
-The cpmplete package can be found in the 'dna.zip' folder above , click the link then click the download icon top right to auto download
+The complete package can be found in the 'dna.zip' folder above , click the link then click the download icon top right to auto download
 
 unzip the folder and off you go...ZERO (0) C0De required...just click 'dna.html' to open in your default browser.
 
